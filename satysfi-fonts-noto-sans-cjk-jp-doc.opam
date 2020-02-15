@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "satysfi-fonts-noto-sans-cjk-jp-doc"
-version: "2017-06-01+satysfi0.0.4"
+version: "1.004+satysfi0.0.4"
 synopsis: "Document of SATySFi Font Package for Noto Sans CJK JP fonts"
 description: """
 Document package for satysfi-fonts-noto-sans-cjk-jp
@@ -15,7 +15,7 @@ depends: [
   "satysfi" {>= "0.0.3+dev2019.02.12" & < "0.0.5"}
   "satyrographos" {>= "0.0.2" & < "0.0.3"}
   "satysfi-base" {>= "1.2.0"}
-  "satysfi-fonts-noto-sans-cjk-jp" {= "2017-06-01+satysfi0.0.4"}
+  "satysfi-fonts-noto-sans-cjk-jp" {= "1.004+satysfi0.0.4"}
 ]
 build: [
   ["satyrographos" "opam" "build"
