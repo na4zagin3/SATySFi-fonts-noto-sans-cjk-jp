@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "satysfi-fonts-noto-sans-cjk-jp"
-version: "2.001ver1+satysfi0.0.4"
+version: "2.001+1+satysfi0.0.4"
 synopsis: "SATySFi Font Package for Noto Sans CJK JP fonts"
 description: """
 SATySFi font package for Noto Sans CJK JP fonts.

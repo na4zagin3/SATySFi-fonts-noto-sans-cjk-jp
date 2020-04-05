@@ -1,7 +1,7 @@
 (version 0.0.2)
 (library
   (name "fonts-noto-sans-cjk-jp")
-  (version "2.001ver1")
+  (version "2.001+1")
   (sources
     ((hash "fonts.satysfi-hash" "fonts.satysfi-hash")
      (hash "mathfonts.satysfi-hash" "mathfonts.satysfi-hash")
@@ -18,7 +18,7 @@
   (opam "satysfi-fonts-noto-sans-cjk-jp.opam"))
 (libraryDoc
   (name "fonts-noto-sans-cjk-jp-doc")
-  (version "2.001ver1")
+  (version "2.001+1")
   (build
     ((satysfi "doc-fonts-noto-sans-cjk-jp.saty" "-o" "doc-fonts-noto-sans-cjk-jp.pdf")))
   (sources
